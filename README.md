@@ -1,5 +1,7 @@
 # 🌟 NoorKids — Gamified Islamic Learning Platform for Children
 
+> 🌐 **Live Production Link:** [https://noorkids-sable.vercel.app/](https://noorkids-sable.vercel.app/)
+
 A production-ready, fully interactive, and gamified Islamic education web platform for children, parents, and educators. NoorKids is centered around the complete pedagogical loop:
 **Learn → Interact → Practice → Earn → Progress**.
 
