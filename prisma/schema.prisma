@@ -1,9 +1,10 @@
 // Prisma Schema for NoorKids Gamified Islamic Learning Platform
-// Supports both SQLite (instant local development) and PostgreSQL
+// Configured for Supabase PostgreSQL (Production & Local)
 
 datasource db {
-  provider = "sqlite"
-  url      = env("DATABASE_URL")
+  provider  = "postgresql"
+  url       = env("DATABASE_URL")
+  directUrl = env("DIRECT_URL")
 }
 
 generator client {
